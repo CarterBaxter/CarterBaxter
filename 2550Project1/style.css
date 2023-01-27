@@ -1,0 +1,62 @@
+:root{
+  --bg-color: black;
+  --text-color: white;
+  --font: sans-serif;
+}
+
+body {
+  font-family: var(--font);
+  background: url(code50px.jpg) left top repeat-y, url(code50px.jpg) right top repeat-y;
+  background-color: var(--bg-color);  
+  color: var(--text-color);
+  padding: 5px 55px 15px 55px;
+}
+
+table{
+  width: 60%;
+}
+
+.schedule{
+  width: 10%;  
+}
+
+.time{
+  width: 5%;
+}
+
+.label{
+  font-weight: bold;
+}
+
+.book{
+  font-style: italic;
+}
+
+.poem{
+  padding-left: 1em;
+  padding-bottom: 1em;
+}
+
+.floatright{
+  float: right;
+}
+
+a{
+  color: lightblue;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: mediumpurple;
+}
+
+a:visited{
+  color: mediumpurple;
+}
+
+img{
+  border: 2px solid gray;
+  border-style: inset;
+  margin: 3px;
+}
