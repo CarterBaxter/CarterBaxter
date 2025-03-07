@@ -1,35 +1,31 @@
-<h1 align="center">Hey, I'm Carter Baxter</h1>
-<h3 align="center">👨‍💻 Passionate Developer | Lifelong Learner | Problem Solver 🎧 </h3>
+# Hey, I'm Carter Baxter
+### 👨‍💻 Passionate Developer | Lifelong Learner | Problem Solver 🎧
 
 ---
 
-### 💾 About Me
+## 💾 About Me
 
 - 🌱 **Learning:** ReactJS, Deep Learning, Networking, and more!
-- ➗ **Current Role:** Math Tutor @ Utah Valley University
-  _(Helping peers study and understand advanced math concepts)_
-- 📎 **Education:**  
-  Attending **Utah Valley University (UVU)**
-  **Degree**
-  Bachelor's of Science in Software Engineering
-  Minor in Information Systems & Technology
-  Expected Graduation: May 2025
-  **Current Courses**
-
+- ➗ **Current Role:** Math Tutor @ Utah Valley University  
+  *(Helping peers study and understand advanced math concepts)*
+- 📎 **Education:** **Utah Valley University (UVU)**  
+  **Degree:** Bachelor's of Science in Software Engineering  
+  **Minor:** Information Systems & Technology  
+  **Expected Graduation:** May 2025  
+  **Current Courses:**
   - Software Engineering 3
   - Analysis of Programming Languages
   - Internet and Router Management
   - Advanced Linux System Administration
   - Database Systems & Warehousing
-
-  **Member of a Deep Learning study group**
-  _(We are dedicating one day a week to study deep learning concepts)_
+- **Member of a Deep Learning study group**  
+  *(We are dedicating one day a week to study deep learning concepts)*
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
-- ✉ **Email:** CarterWBaxter@gmail.com
+- ✉ **Email:** [CarterWBaxter@gmail.com](mailto:CarterWBaxter@gmail.com)
 - 💼 **LinkedIn:** [Carter Baxter](https://www.linkedin.com/in/carter-baxter-839b89300/)
 
 ---
@@ -99,18 +95,16 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarterBaxter&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-  _(Note, slightly skewed because most projects I work on I keep local or are part of private organizations)_
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarterBaxter&show_icons=true&theme=tokyonight&locale=en)  
+*Note: slightly skewed because most projects I work on are kept local or are part of private organizations.*
 
 ---
 
-### 🌟 Fun Facts
+## 🌟 Fun Facts
 
-- 🧠 I love working on projects that push me to learn new things
+- 🧠 I love working on projects that push me to learn new things.
 - 🌎 I’m passionate about building solutions that make an impact.
 - 🚀 Always exploring and embracing new challenges in the tech world!
 
