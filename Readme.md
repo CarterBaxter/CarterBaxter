@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Carter Baxter</h1>
-<h3 align="center">👨‍💻 Passionate Developer | Lifelong Learner | Problem Solver </h3>
+<h3 align="center">👨‍💻 Passionate Developer | Lifelong Learner | Problem Solver 🎧 </h3>
 
 ---
 
@@ -11,18 +11,18 @@
 - 📎 **Education:**  
   Attending **Utah Valley University (UVU)**
   **Degree**
-  Bachelors of Science in Software Engineering
+  Bachelor's of Science in Software Engineering
   Minor in Information Systems & Technology
   Expected Graduation: May 2025
   **Current Courses**
 
   - Software Engineering 3
-  - Analysis of Programing Languages
-  - Internets and Router Management
+  - Analysis of Programming Languages
+  - Internet and Router Management
   - Advanced Linux System Administration
   - Database Systems & Warehousing
 
-  **Apart of a Deep Learning study group**
+  **Member of a Deep Learning study group**
   _(We are dedicating one day a week to study deep learning concepts)_
 
 ---
