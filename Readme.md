@@ -5,19 +5,22 @@
 
 ## 💾 About Me
 
-- 🌱 **Learning:** ReactJS, Deep Learning, Networking, and more!
-- ➗ **Current Role:** Math Tutor @ Utah Valley University  
-  *(Helping peers study and understand advanced math concepts)*
+- 🌱 **Learning:** Cloud Architecture, Deep Learning, Networking, and more!
+- ➗ **Current Roles:** Software Engineering Intern @ Onli Industries  
+  *(Software Engineering Startup)*
+  &&
+  Youth Coding Camp Instructor @ Simply Coding
+  *(Teaching ages 8-13 various coding classes)*
 - 📎 **Education:** **Utah Valley University (UVU)**  
-  **Degree:** Bachelor's of Science in Software Engineering  
+  **Degree:** Bachelor of Science in Software Engineering  
   **Minor:** Information Systems & Technology  
-  **Expected Graduation:** May 2025  
-  **Current Courses:**
-  - Software Engineering 3
-  - Analysis of Programming Languages
-  - Internet and Router Management
-  - Advanced Linux System Administration
-  - Database Systems & Warehousing
+  **Graduated:** May 2025  
+  **Current Interests:**
+  - Firebase and Cloud Deployment
+  - Self-Hosting and HomeLab Services
+  - Rust
+  - Video Game Development
+  - Deep Learning and AI
 - **Member of a Deep Learning study group**  
   *(We are dedicating one day a week to study deep learning concepts)*
 
@@ -60,6 +63,9 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
+ <a href="https://vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
@@ -90,6 +96,9 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+ <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg" alt="Firebase" width="40" height="40"/>
   </a>
 </p>
 
