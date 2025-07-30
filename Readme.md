@@ -5,7 +5,7 @@
 
 ## 💾 About Me
 
-- 🌱 **Learning:** Cloud Architecture, Deep Learning, Networking, and more!
+- 🌱 **Learning:** Cloud Architecture, Deep Learning, Game Development, and more!
 - ➗ **Current Roles:** Software Engineering Intern @ Onli Industries  
   *(Software Engineering Startup)*
   &&
@@ -18,7 +18,7 @@
   **Current Interests:**
   - Firebase and Cloud Deployment
   - Self-Hosting and HomeLab Services
-  - Rust
+  - Godot
   - Video Game Development
   - Deep Learning and AI
 - **Member of a Deep Learning study group**  
@@ -102,6 +102,13 @@
   </a>
 </p>
 
+#### **Misc.**
+
+<p align="left">
+ <a href="https://godotengine.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
