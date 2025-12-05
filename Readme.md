@@ -6,20 +6,17 @@
 ## 💾 About Me
 
 - 🌱 **Learning:** Cloud Architecture, Deep Learning, Game Development, and more!
-- ➗ **Current Roles:** Software Engineering Intern @ Onli Industries  
+- ➗ **Current Roles:** Jr Software Engineering @ Onli Industries  
   *(Software Engineering Startup)*
-  &&
-  Youth Coding Camp Instructor @ Simply Coding
-  *(Teaching ages 8-13 various coding classes)*
 - 📎 **Education:** **Utah Valley University (UVU)**  
   **Degree:** Bachelor of Science in Software Engineering  
   **Minor:** Information Systems & Technology  
   **Graduated:** May 2025  
   **Current Interests:**
-  - Firebase and Cloud Deployment
+  - Linux
   - Self-Hosting and HomeLab Services
   - Godot
-  - Video Game Development
+  - Cloud Development
   - Deep Learning and AI
 - **Member of a Deep Learning study group**  
   *(We are dedicating one day a week to study deep learning concepts)*
