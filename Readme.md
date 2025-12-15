@@ -5,8 +5,8 @@
 
 ## 💾 About Me
 
-- 🌱 **Learning:** Cloud Architecture, Deep Learning, Game Development, and more!
-- ➗ **Current Roles:** Jr Software Engineering @ Onli Industries  
+- **Learning:** Cloud Architecture, Deep Learning, Game Development, and more!
+- **Current Roles:** Jr Software Engineering @ Onli Industries  
   *(Software Engineering Startup)*
 - 📎 **Education:** **Utah Valley University (UVU)**  
   **Degree:** Bachelor of Science in Software Engineering  
@@ -106,13 +106,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarterBaxter&show_icons=true&theme=tokyonight&locale=en)  
-*Note: slightly skewed because most projects I work on are kept local or are part of private organizations.*
 
 ---
 
