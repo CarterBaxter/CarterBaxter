@@ -6,8 +6,7 @@
 ## 💾 About Me
 
 - **Learning:** Cloud Architecture, Deep Learning, Game Development, and more!
-- **Current Roles:** Jr Software Engineering @ Onli Industries  
-  *(Software Engineering Startup)*
+- **Current Roles:** Freelance Software Engineering @ BaxterDevOps  
 - 📎 **Education:** **Utah Valley University (UVU)**  
   **Degree:** Bachelor of Science in Software Engineering  
   **Minor:** Information Systems & Technology  
