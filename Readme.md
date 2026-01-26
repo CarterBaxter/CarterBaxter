@@ -17,8 +17,6 @@
   - Godot
   - Cloud Development
   - Deep Learning and AI
-- **Member of a Deep Learning study group**  
-  *(We are dedicating one day a week to study deep learning concepts)*
 
 ---
 
